@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Browser</string>
+    <string name="test_json_url">supersimplelifts.me/images/images.json</string>
+    <string name="json_url">cartoonapi.azurewebsites.net/api/cartoon</string>
+    <string name="name_key">name</string>
+    <string name="link_key2">pictureUrl</string>
+    <string name="link_key1">url</string>
+
+    <string name="protocol">http</string>
+    <string name="default_protocol">http://</string>
+
+    <string name="no_connection">No connection to server</string>
+    <string name="invalid_parameters">Invalid parameters</string>
+    <string name="invalid_response">Invalid Response from server</string>
+    <string name="no_updates">Up-to-date</string>
+
+</resources>
